@@ -14,7 +14,7 @@ Este é um projeto simples de sorteio de amigo secreto desenvolvido em **JavaScr
 ### 🔧 Tecnologias Utilizadas
 
 - **HTML** para a estrutura da página.
-- **CSS** (opcional) para estilização.
+- **CSS** para estilização.
 - **JavaScript** para a lógica do sorteio e manipulação do DOM.
 
 ### 🚀 Como Usar
